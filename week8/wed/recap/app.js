@@ -14,6 +14,8 @@ const dealership2 = new Dealership("empty dealership",10);
 // console.log(dealership2);
 
 dealership1.printCarManufacturers();
-console.log(car);
+dealership1.addCar();
+dealership1.printCarManufacturers();
+
 
 
